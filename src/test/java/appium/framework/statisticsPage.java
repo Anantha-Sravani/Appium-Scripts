@@ -53,15 +53,15 @@ public class statisticsPage {
 		action.tap(PointOption.point(c,d)).perform();
 		Thread.sleep(3000);
 		
-		for(int x=1;x<=2;x++)
-		{
-		driver.navigate().back();
-		}
-	
-
-		
-
-	}
+//		for(int x=1;x<=2;x++)
+//		{
+//		driver.navigate().back();
+//		}
+//	
+//
+//		
+//
+//	}
 
 }
 
